@@ -1,4 +1,5 @@
 .ipynb*
+*.ipynb*
 
 .DS_Store
 .AppleDouble
