@@ -1,5 +1,6 @@
 .ipynb*
 */.ipynb*
+.ipynb_checkpoints/*
 
 .DS_Store
 .AppleDouble
